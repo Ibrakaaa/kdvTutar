@@ -1,6 +1,6 @@
 # kdvTutar
 # Java 101 - KDV Tutarı Hesaplama
-[](www.patika.dev)
+# (www.patika.dev)
 
 import java.util.Scanner;
 
