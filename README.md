@@ -1,5 +1,6 @@
 # kdvTutar
-Java 101 - KDV Tutarı Hesaplama
+# Java 101 - KDV Tutarı Hesaplama
+[](www.patika.dev)
 
 import java.util.Scanner;
 
@@ -33,7 +34,7 @@ public class BaslangicTest {
 
     }
     
-    [](www.patika.dev)
+   
     
     
-    }
+    
